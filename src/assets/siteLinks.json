@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "Blog",
+    "name": "个人博客",
+    "link": "https://blog.xiaolan.xin/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "站点监测",
+    "link": "https://status.xiaolan.xin/"
+  },
+  {
+    "icon": "Book",
+    "name": "存储站",
+    "link": "https://file.xiaolan.xin"
+  }
+]
